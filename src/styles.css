@@ -46,6 +46,15 @@
   --color-input: var(--input);
   --color-ring: var(--ring);
   --color-ring-offset-background: var(--background);
+  --color-ivory: var(--ivory);
+  --color-sand: var(--sand);
+  --color-stone: var(--stone);
+  --color-charcoal: var(--charcoal);
+  --color-clay: var(--clay);
+  --color-leaf: var(--leaf);
+  --font-display: var(--font-display);
+  --font-sans: var(--font-body);
+  --tracking-label: 0.18em;
   --color-chart-1: var(--chart-1);
   --color-chart-2: var(--chart-2);
   --color-chart-3: var(--chart-3);
@@ -60,6 +69,7 @@
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
 }
+
 
 :root {
   --radius: 0.625rem;
